@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.main-nav{
+  font-size: 20px;
+}
+.add-nav{
+  font-size: 20px;
+
+}
+
+  .strings-card-info{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    padding: 2px;
+  }
